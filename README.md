@@ -19,16 +19,20 @@ Check out our [current progress and future plans](https://github.com/jupytercalp
 See our progress as of 08/07/2020 from these [slides](https://docs.google.com/presentation/d/1ZGjFb3RkoR5Cc39DDdtU-AYAoYMNVMyUM9g80qgNzos/edit?usp=sharing)!
 
 ## Showcase
+
+**Launch a new file and quickly add rows and columnss**
 ![](csvlauncher.gif)
 
+**Seamlessly rearrange rows and columns**
 ![](moving.gif)
 
+**Insert and remove multiple rows and columns**
 ![](multiremoveandinsert.gif)
 
+**Format your data with a click of a button**
+![](data-detection.gif)
 
-
-![](datadetection.gif)
-
+**Search and replace with ease**
 ![](searchandreplace.gif)
 
 ## Requirements
